@@ -4888,6 +4888,7 @@
 	max-width: 100%;
 	-webkit-transition: .2s cubic-bezier(.4, 0, .2, 1);
 	transition: .2s cubic-bezier(.4, 0, .2, 1)
+	background-color: #121212
 }
 
 .v-content:not([data-booted=true]) {
