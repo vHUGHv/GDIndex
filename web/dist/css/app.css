@@ -717,7 +717,7 @@
 }
 
 .theme--dark.v-card {
-	background-color: #424242;
+	background-color: rgba(150,111,214,0.09);
 	color: #fff
 }
 
