@@ -26908,8 +26908,8 @@ object[data-v-2fd07efa] {
 }
 
 .v-application .blue.darken-2 {
-	background-color: #1976d2!important;
-	border-color: #1976d2!important
+	background-color: rgba(150,111,214,0.09)!important;
+	border-color: rgba(150,111,214,0.09)!important
 }
 
 .v-application .blue--text.text--darken-2 {
