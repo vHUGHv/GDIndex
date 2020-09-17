@@ -4006,6 +4006,7 @@
                         }), n("v-spacer"), n("v-toolbar-items", [n("v-btn", {
                             staticClass: "text-none hidden-sm-and-down",
                             attrs: {
+								color: "FFFFFF"
                                 text: "",
                                 tag: "a",
                                 href: "https://github.com/vHUGHv/GDIndex",
@@ -4013,6 +4014,7 @@
                             }
                         }, [n("v-icon", [t._v("mdi-github-circle")]), t._v(" GitHub")], 1)], 1)], 1), n("v-content", [n("router-view")], 1), n("LoginDialog", {
                             attrs: {
+								color:"FFFFFF"
                                 cond: t.showAuthInput
                             }
                         })], 1)
