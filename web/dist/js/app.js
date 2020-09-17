@@ -4008,7 +4008,7 @@
                             attrs: {
                                 text: "",
                                 tag: "a",
-                                href: "https://github.com/maple3142/GDIndex",
+                                href: "https://github.com/vHUGHv/GDIndex",
                                 target: "_blank"
                             }
                         }, [n("v-icon", [t._v("mdi-github-circle")]), t._v(" GitHub")], 1)], 1)], 1), n("v-content", [n("router-view")], 1), n("LoginDialog", {
